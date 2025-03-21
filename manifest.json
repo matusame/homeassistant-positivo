@@ -1,13 +1,13 @@
 {
   "domain": "positivo",
   "name": "Positivo Casa Inteligente",
-  "config_flow": true,
-  "documentation": "https://github.com/matusame/homeassistant-positivo",
-  "requirements": ["pycryptodome==3.10.1", "requests==2.25.1"],
-  "dependencies": [],
   "codeowners": [
     "@matusame"
   ],
+  "dependencies": [],
+  "documentation": "https://github.com/matusame/homeassistant-positivo",
+  "config_flow": true,
   "iot_class": "cloud_polling",
+  "requirements": ["pycryptodome==3.10.1", "requests==2.25.1"],
   "version": "1.0.0"
 }
