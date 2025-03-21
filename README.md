@@ -56,3 +56,4 @@ I'm for sure missing stuff here, but these are the main ones:
 
 - [Local Tuya](https://github.com/rospogrigio/localtuya)
 - [TuyAPI](https://github.com/codetheweb/tuyapi)
+- [rgsilva](https://github.com/rgsilva/homeassistant-positivo)
